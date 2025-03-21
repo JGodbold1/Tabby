@@ -1,0 +1,18 @@
+Copyright (c) 2025 Godbold LLC
+
+Permission is hereby granted, free of charge, to use, copy, modify, and distribute the Software **solely for personal educational purposes**.
+
+The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+### **Restrictions:**
+
+1. **Commercial Use:** The Software may not be used for any commercial purposes.
+2. **Profit:** The Software may not be used to generate any financial gain, including selling, licensing, or using it for paid projects.
+3. **Redistribution:** The redistribution or resale of the Software in any form, including modifications or derivatives, is prohibited.
+4. **Educational Use Only:** The Software may only be used for personal, non-commercial, educational purposes. It cannot be used in any form of public or commercial project or for financial profit.
+
+Any violation of these terms, including using the software for commercial gain or redistributing it in any form, will be subject to legal action.
+
+---
+
+This License is intended for **personal educational use only**. Any attempt to use this code for **commercial or financial purposes**, including selling, sublicensing, or using the code for paid projects, is strictly prohibited and will be subject to legal consequences.
