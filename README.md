@@ -2,7 +2,8 @@
 # AI Guitar Tab Transcription Tool
 
 An AI-powered web tool that transcribes songs into guitar tabs for 6-string guitars. The tool isolates the guitar part from an audio track, generates a guitar tab, and provides features like fretboard visualization and synchronized track playback.
-
+---
+This project is intended for educational purposes only. The use of this code for commercial purposes or to gain personal or financial profit is strictly prohibited. Any attempts to use this code for personal gain or in a commercial product will be subject to legal consequences.
 ---
 
 ## Features:
